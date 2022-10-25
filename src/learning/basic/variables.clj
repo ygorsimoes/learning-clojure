@@ -1,4 +1,4 @@
-(ns learning.things.variables)
+(ns learning.basic.variables)
 
 ;; Global
 (def number-one 22)

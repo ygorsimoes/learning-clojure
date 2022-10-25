@@ -1,4 +1,4 @@
-(ns learning.things.conditionals)
+(ns learning.basic.conditionals)
 
 ;; Basic conditional
 (let [number-one 2
