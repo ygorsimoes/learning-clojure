@@ -22,9 +22,9 @@
 (defn this-is-bigger?
   [a, b, c]
   (if (== c (sum a b))
-    ;; conditional case true
+    ;; Conditional case true
     "Is bigger!")
-  ;; conditional case false
+  ;; Conditional case false
   "Is not bigger!")
 
 (println (this-is-bigger? number-one, number-two, number-three))
