@@ -1,4 +1,4 @@
-(ns learning.calculator.simple-calculator)
+(ns calculator.simple-calculator)
 
 (defn sum
   [a, b]
@@ -30,5 +30,3 @@
 
         (if (== value-of-menu 4)
           (div a b))))))
-
-(println (calculator 4 4 2))
