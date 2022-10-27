@@ -16,26 +16,26 @@
 (def number-two 5)
 (def number-three 7)
 
-(defn sum [a, b]
+(defn sum [a b]
   (+ a b))
 
 ;; Predicates:
 ;; If version
 (defn if-is-bigger?
-  [a, b, c]
+  [a b c]
   (if (> c (sum a b))
     true
     false))
 
 ;; When version
 (defn when-is-bigger?
-  [a, b, c]
+  [a b c]
   (when (> c (sum a b))
     true))
 
 ;; Concise version
 (defn concise-is-bigger?
-  [a, b, c]
+  [a b c]
   (> c (sum a b)))
 
 (println "\nVersion: if. Is bigger?" (if-is-bigger? number-one, number-two, number-three))
