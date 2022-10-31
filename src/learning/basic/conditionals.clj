@@ -10,7 +10,6 @@
       is-bigger? (> number-one number-two)]
   (println "This is bigger?" is-bigger?))
 
-
 ;; Conditional with if and else:
 (def number-one 2)
 (def number-two 5)
