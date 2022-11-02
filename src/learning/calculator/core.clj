@@ -1,6 +1,6 @@
 (ns learning.calculator.core)
 
-(require '[calculator.simple-calculator :as simple-calculator])
+(require '[learning.calculator.simple-calculator :as simple-calculator])
 
 (defn -main
   "I don't do a whole lot ... yet."

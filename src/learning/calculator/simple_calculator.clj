@@ -17,7 +17,8 @@
   (/ a b))
 
 (defn calculator
-  "Do the calculation with the four operations."
+  "Do the calculation with the four operations.
+   1 = Sum\n  2 = Sub\n  3 = Multi\n 4 = Div"
   [value-of-menu a b]
   (if (== value-of-menu 1)
     (sum a b)
