@@ -1,4 +1,4 @@
-(ns calculator.simple-calculator)
+(ns learning.calculator.simple-calculator)
 
 (defn sum
   [a, b]

@@ -1,4 +1,4 @@
-(ns calculator.core)
+(ns learning.calculator.core)
 
 (require '[calculator.simple-calculator :as simple-calculator])
 
