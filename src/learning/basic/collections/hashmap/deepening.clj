@@ -24,4 +24,3 @@
 (println (-> inventory
              :backpack
              :price))
-
