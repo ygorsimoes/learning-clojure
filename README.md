@@ -6,3 +6,5 @@ I'm guiding all my learning through the recommendations from the official Clojur
 
 As my journey progresses in this programming language, some codes tend to get complex, but I must separate them into 
 different folders with the proper documentation.
+
+**Feel free to contribute positively to this repository.**
