@@ -12,7 +12,7 @@
 (defn happy-birthday
   "wishes a happy birthday"
   [name]
-  (println "Happy Birthday," name "!!!"))
+  (println "Happy Birthday," name "!"))
 
 (defn hello-world
   "return (println) with argument name case not empty."
@@ -24,4 +24,5 @@
 
 ;; Test functions
 (println "basic-function:" (basic-function))
+(happy-birthday "Gibson")
 (hello-world "Clojure")
