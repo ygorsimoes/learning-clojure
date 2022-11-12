@@ -1,6 +1,6 @@
-(ns learning.calculator.core)
+(ns learning.alura.calculator.core)
 
-(require '[learning.calculator.simple-calculator :as simple-calculator])
+(require '[learning.alura.calculator.simple-calculator :as simple-calculator])
 
 (defn -main
   "I don't do a whole lot ... yet."

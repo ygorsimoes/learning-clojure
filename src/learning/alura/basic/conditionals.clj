@@ -1,4 +1,4 @@
-(ns learning.basic.conditionals)
+(ns learning.alura.basic.conditionals)
 
 ;; Basic conditional:
 (let [number-one 2

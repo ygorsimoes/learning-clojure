@@ -1,4 +1,4 @@
-(ns learning.basic.operators)
+(ns learning.alura.basic.operators)
 
 (def number-one 2)
 (def number-two 10)

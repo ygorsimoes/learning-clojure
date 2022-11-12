@@ -1,4 +1,4 @@
-(ns learning.calculator.simple-calculator)
+(ns learning.alura.calculator.simple-calculator)
 
 (defn sum
   [a, b]

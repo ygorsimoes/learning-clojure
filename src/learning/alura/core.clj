@@ -1,4 +1,4 @@
-(ns learning.core)
+(ns learning.alura.core)
 
 (defn -main
   "I can say 'Hello World'."

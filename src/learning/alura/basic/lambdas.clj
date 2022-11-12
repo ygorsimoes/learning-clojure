@@ -1,4 +1,4 @@
-(ns learning.basic.lambdas)
+(ns learning.alura.basic.lambdas)
 
 ;; Functions Lambdas (Sum)
 (println "[Lambda 1] The sum is:" ((fn [number-one number-two] (+ number-one number-two)) 2 2))

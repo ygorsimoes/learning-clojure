@@ -1,4 +1,4 @@
-(ns learning.basic.collections.conj)
+(ns learning.alura.basic.collections.conj)
 
 ;; Create vector.
 (def prices [49 100 200 403 500 600 701])

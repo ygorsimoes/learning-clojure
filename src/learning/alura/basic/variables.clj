@@ -1,4 +1,4 @@
-(ns learning.basic.variables)
+(ns learning.alura.basic.variables)
 
 ;; Global
 (def number-one 22)

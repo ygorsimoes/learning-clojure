@@ -1,4 +1,4 @@
-(ns learning.shop.core)
+(ns learning.alura.shop.core)
 
 (def inventory {:backpack {:price 100, :quantity 10},
                 :boot     {:price 500, :quantity 4},
