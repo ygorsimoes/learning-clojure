@@ -6,7 +6,14 @@
   [scores]
   (for [x scores]
     (if (>= x 6)
-      {:score x :passed? true}
-      {:score x :passed? false})))
+      [x true]
+      [x false])))
 
-(println (average-students scores-students))
+(defn passed?
+  [approval]
+  (for [x approval]
+    (if (get x 1)
+      (println "Pass with:" (get x 0))
+      (println "Fail with:" (get x 0)))))
+
+(passed? (average-students scores-students))

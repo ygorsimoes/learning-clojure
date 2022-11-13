@@ -1,3 +1,3 @@
 (ns learning.segundatech.core)
 
-(println "Hello, new course!")
+(println "Hello, segundatech!")
