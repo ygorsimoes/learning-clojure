@@ -1,4 +1,4 @@
-(ns learning.alura.calculator.core)
+(ns learning.projects.calculator.core)
 
 (require '[learning.alura.calculator.simple-calculator :as simple-calculator])
 
