@@ -21,6 +21,6 @@
 (println (update-in inventory [:backpack :quantity] #(+ % 1)))
 
 ;; Threading first.
-(println (-> inventory
+(println "Threading first:" (-> inventory
              :backpack
              :price))
