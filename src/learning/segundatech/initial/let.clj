@@ -1,16 +1,17 @@
 (ns learning.segundatech.initial.let)
 
 (defn fine-amount
-  "calculates the fine amount"
+  "Calculates the fine amount"
   [value]
   (let [fie-percentage 0.1]
     (* fie-percentage value)))
 
-(defn total-amount
-  "calculates the total amount"
+(defn total-value
+  "Calculates the total value"
   [value]
-  (let [total-percentage (* value 0.1)]
+  (let [fine-percentage 0.1
+        total-percentage (* value fine-percentage)]
     (+ value total-percentage)))
 
 (println "fine-amount:" (fine-amount 10000))
-(println "total-amount:" (total-amount 10000))
+(println "total-amount:" (total-value 10000))
