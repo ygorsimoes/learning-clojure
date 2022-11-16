@@ -1,4 +1,4 @@
-(defproject learning "1.0"
+(defproject learning "v1.0"
   :description "My journey in the quest to learn Clojure."
   :url "https://github.com/ygorsimoes/learning-clojure"
   :license {:name "MIT License"
