@@ -1,4 +1,4 @@
-(ns learning.alura.basic.operators)
+(ns learning.courses.alura.essential.operators)
 
 (def number-one 2)
 (def number-two 10)

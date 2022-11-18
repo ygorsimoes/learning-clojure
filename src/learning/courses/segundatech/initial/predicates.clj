@@ -1,4 +1,4 @@
-(ns learning.segundatech.initial.predicates)
+(ns learning.courses.segundatech.initial.predicates)
 
 ;; Predicates are functions which evaluate a condition and return
 ;; a value true or false (boolean).

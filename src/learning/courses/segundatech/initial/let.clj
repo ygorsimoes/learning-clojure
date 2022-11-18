@@ -1,4 +1,4 @@
-(ns learning.segundatech.initial.let)
+(ns learning.courses.segundatech.initial.let)
 
 (defn fine-amount
   "Calculates the fine amount"

@@ -1,4 +1,4 @@
-(ns learning.segundatech.initial.vectors)
+(ns learning.courses.segundatech.initial.vectors)
 
 ;; [n1 n2 n3] - basic vector
 (println "basic-vector:"

@@ -1,4 +1,4 @@
-(ns learning.segundatech.initial.conditionals.if)
+(ns learning.courses.segundatech.initial.conditionals.if)
 
 (defn tax-just-with-if
   "If salary is less or equal a 1000 not has tax. Above of 1000 and less of 2000

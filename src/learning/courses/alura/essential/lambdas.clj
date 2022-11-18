@@ -1,4 +1,4 @@
-(ns learning.alura.basic.lambdas)
+(ns learning.courses.alura.essential.lambdas)
 
 ;; Functions Lambdas (Sum)
 (println "[Lambda 1] The sum is:" ((fn [number-one number-two] (+ number-one number-two)) 2 2))
@@ -8,8 +8,9 @@
 (def anonymous-sum-function #(+ %1 %2))
 (println "[Anonymous sum function.] The sum is:" (anonymous-sum-function 2 2) "\n")
 
-;; Function (Sum) - Comparison code.
+;; Comparison code.
 (defn sum
+  "Pure sum function"
   [a b]
   (+ a b))
 

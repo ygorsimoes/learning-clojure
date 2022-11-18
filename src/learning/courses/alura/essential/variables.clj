@@ -1,13 +1,14 @@
-(ns learning.alura.basic.variables)
+(ns learning.courses.alura.essential.variables)
 
-;; Global
+;; Global variables
 (def number-one 22)
 (println "Testing global variable:" number-one)
 
 (def is-ok? true)
 (println "Testing if is ok:" is-ok?)
 
-;; Local
+
+;; Local variables
 (let [number-two 23
       number-three 24
       probably-a-variable "this is variable"]

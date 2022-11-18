@@ -1,4 +1,4 @@
-(ns learning.segundatech.initial.functions)
+(ns learning.courses.segundatech.initial.functions)
 
 ;; (defn name-function
 ;;  "document comment of your function"
