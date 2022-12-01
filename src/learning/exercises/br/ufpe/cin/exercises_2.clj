@@ -1,4 +1,4 @@
-(ns learning.exercises.br.ufpe.cin.exercises-2)
+(ns learning.exercises.br.ufpe.cin.exercises_2)
 
 (defn menor-de-tres
   "2. menorDeTres: recebe três valores e retorna o menor"
