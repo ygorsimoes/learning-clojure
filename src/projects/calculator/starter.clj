@@ -1,4 +1,4 @@
-(ns learning.projects.calculator.starter)
+(ns projects.calculator.starter)
 
 (require '[learning.projects.calculator.simple-calculator :as simple-calculator])
 

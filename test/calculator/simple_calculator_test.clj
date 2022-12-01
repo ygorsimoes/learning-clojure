@@ -1,6 +1,6 @@
-(ns learning.projects.calculator.simple-calculator_test
+(ns projects.calculator.simple-calculator_test
   (:require [clojure.test :refer :all]
-            [learning.projects.calculator.simple-calculator :refer :all]))
+            [projects.calculator.simple-calculator :refer :all]))
 
 (deftest operations-test
   (testing "Unexpected result from function (sum x y)."
