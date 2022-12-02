@@ -28,6 +28,7 @@
 
 (summing-of-ages [5 10 5])
 
+
 ;; CHALLENGER (map)
 ;; Create one function that takes one vector of names and return the average
 ;; size of the names.
