@@ -1,4 +1,4 @@
-(ns learning.exercises.br.uemg.read-and-write
+(ns learning.exercises.br.uemg.exercise
   (:require [clojure.java.io :as io]))
 
 (defn get-path-file-cashier

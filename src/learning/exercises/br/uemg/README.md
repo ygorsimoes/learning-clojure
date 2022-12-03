@@ -10,4 +10,4 @@ The exercise is in Portuguese (Brazil):
 
 ![exercises-printscreen](https://i.imgur.com/F2B7PQr.png)
 
-Click here for access the [source code](https://github.com/ygorsimoes/learning-clojure/blob/main/src/learning/exercises/br/uemg/read_and_write.clj).
+Click here for access the [source code](https://github.com/ygorsimoes/learning-clojure/blob/main/src/learning/exercises/br/uemg/exercise.clj).
