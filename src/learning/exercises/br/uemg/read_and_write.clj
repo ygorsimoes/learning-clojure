@@ -77,7 +77,7 @@
 
 ;; Results:
 
-(println "Letra (A):" (letter-a))
-(println "Letra (B):" (letter-b))
-(println "Letra (C):" (letter-c))
-(println "Letra (D):" (letter-d))
+(println "Letra (A):" (letter-a) "\n")
+(println "Letra (B):" (letter-b) "\n")
+(println "Letra (C):" (letter-c) "\n")
+(println "Letra (D):" (letter-d) "\n")
