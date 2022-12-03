@@ -3,4 +3,5 @@
 The proposed exercise would be done in LISP. I decided to also do it in Clojure to test my skills with the language.
 
 The exercise is in Portuguese (Brazil):
+
 ![exercises](https://i.imgur.com/UJ7bwM8.png)
