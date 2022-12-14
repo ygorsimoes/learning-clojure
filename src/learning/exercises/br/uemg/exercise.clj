@@ -1,3 +1,7 @@
+;; List of list - Functional Programming
+;; Teacher - Adriana de Souza Guimarães
+;; Students: Ygor Simões Silva, Victor Vianna Evangelista
+
 (ns learning.exercises.br.uemg.exercise
   (:require [clojure.java.io :as io]))
 
