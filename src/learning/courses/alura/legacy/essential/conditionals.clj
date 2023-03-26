@@ -1,4 +1,4 @@
-(ns learning.courses.alura.essential.conditionals)
+(ns learning.courses.alura.legacy.essential.conditionals)
 
 ;; Basic conditional:
 (let [number-one 2

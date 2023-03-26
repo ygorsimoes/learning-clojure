@@ -1,4 +1,4 @@
-(ns learning.courses.alura.essential.collections.update)
+(ns learning.courses.alura.legacy.essential.collections.update)
 
 ;; Create vector.
 (def prices [49 100 200 400 500 600 700])

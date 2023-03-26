@@ -1,4 +1,4 @@
-(ns learning.courses.alura.essential.collections.hashmap.deepening)
+(ns learning.courses.alura.legacy.essential.collections.hashmap.deepening)
 
 ;; Created hashmap.
 (def inventory {:backpack {:price 100, :quantity 10},

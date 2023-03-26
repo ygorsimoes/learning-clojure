@@ -1,4 +1,4 @@
-(ns learning.courses.alura.essential.variables)
+(ns learning.courses.alura.legacy.essential.variables)
 
 ;; Global variables
 (def number-one 22)
