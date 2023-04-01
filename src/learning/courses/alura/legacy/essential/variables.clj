@@ -7,6 +7,8 @@
 (def is-ok? true)
 (println "Testing if is ok:" is-ok?)
 
+(println is-ok?)
+
 
 ;; Local variables
 (let [number-two 23
