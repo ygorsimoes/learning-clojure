@@ -10,7 +10,5 @@
     gross-value))
 
 
-should apply discount?
-
 ;; Testing the function...
 (discounted-value 100)
