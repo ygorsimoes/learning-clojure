@@ -1,5 +1,4 @@
-(ns learning.courses.alura.essential.operators)
-(ns learning.courses.alura.legacy.essential.operators)
+(ns learning-clojure.operators)
 
 (def number-one 2)
 (def number-two 10)
@@ -18,7 +17,7 @@
 
 ;; Relational Operators
 (println "Equality:" (= number-one number-two))
-(println "Diference:" (not= number-one number-two))
+(println "Difference:" (not= number-one number-two))
 (println "Less than:" (< number-one number-two))
 (println "Greater than:" (> number-one number-two))
 (println "Less than or equal:" (<= number-one number-two))

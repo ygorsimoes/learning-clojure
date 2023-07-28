@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,jetbrains+all,intellij+all,visualstudiocode,clojure,java
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,jetbrains+all,intellij+all,visualstudiocode,clojure,java
+# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,java,clojure,leiningen,maven,intellij+all
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,java,clojure,leiningen,maven,intellij+all
 
 ### Clojure ###
 pom.xml
@@ -129,60 +129,7 @@ fabric.properties
 hs_err_pid*
 replay_pid*
 
-### JetBrains+all ###
-# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
-# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
-
-# User-specific stuff
-
-# AWS User-specific
-
-# Generated files
-
-# Sensitive or high-churn files
-
-# Gradle
-
-# Gradle and Maven with auto-import
-# When using Gradle or Maven with auto-import, you should exclude module files,
-# since they will be recreated, and may cause churn.  Uncomment if using
-# auto-import.
-# .idea/artifacts
-# .idea/compiler.xml
-# .idea/jarRepositories.xml
-# .idea/modules.xml
-# .idea/*.iml
-# .idea/modules
-# *.iml
-# *.ipr
-
-# CMake
-
-# Mongo Explorer plugin
-
-# File-based project format
-
-# IntelliJ
-
-# mpeltonen/sbt-idea plugin
-
-# JIRA plugin
-
-# Cursive Clojure plugin
-
-# SonarLint plugin
-
-# Crashlytics plugin (for Android Studio and IntelliJ)
-
-# Editor-based Rest Client
-
-# Android studio 3.1+ serialized cache file
-
-### JetBrains+all Patch ###
-# Ignore everything but code style settings and run configurations
-# that are supposed to be shared within teams.
-
-
+### Leiningen ###
 
 ### Linux ###
 *~
@@ -232,24 +179,24 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
-### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
 
-# Local History for Visual Studio Code
-.history/
-
-# Built Visual Studio Code Extensions
-*.vsix
-
-### VisualStudioCode Patch ###
-# Ignore all local history of files
-.history
-.ionide
+# Eclipse m2e generated files
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -277,4 +224,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,jetbrains+all,intellij+all,visualstudiocode,clojure,java
+# End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,java,clojure,leiningen,maven,intellij+all
