@@ -18,5 +18,5 @@
 
 (println (simple-function))
 
-(println (sum 2 2 ))
+(println (sum 2 2))
 (println (your-name-is "Ygor Simões"))
