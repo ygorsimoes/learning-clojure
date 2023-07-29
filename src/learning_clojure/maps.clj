@@ -5,6 +5,12 @@
                 :sword  1
                 :shield 1})
 
+(defn keys-and-values
+  [[k, v]]
+  (println "KEYS:" k "VALUES:" v))
+
+(map keys-and-values inventory)
+
 ;; (keys) is a function that returns a collection of keys from a map.
 (keys inventory)
 
@@ -45,6 +51,9 @@
                            :shield {:quantity 1
                                     :price    50}})
 
+(map keys-and-values inventory-complexity)
+
+
 ;; (get-in) is a function that returns a value from a nested map.
 (get-in inventory-complexity [:potion :quantity])
 
@@ -75,9 +84,9 @@
 
 ;; Threads Last:
 (->> inventory-complexity
-    :potion
-    :quantity
-    println)
+     :potion
+     :quantity
+     println)
 
 (->> inventory-complexity
      :potion
