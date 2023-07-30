@@ -1,4 +1,4 @@
-(ns learning-clojure.map)
+(ns learning-clojure.initial.map)
 
 ;; Map is a function that applies a function to each element of a collection.
 (map inc [1 2 3 4 5])

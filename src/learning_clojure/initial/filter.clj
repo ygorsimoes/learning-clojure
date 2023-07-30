@@ -1,4 +1,4 @@
-(ns learning-clojure.filter)
+(ns learning-clojure.initial.filter)
 
 (def my-list [1 2 3 4 5 6 7 8 9 10])
 

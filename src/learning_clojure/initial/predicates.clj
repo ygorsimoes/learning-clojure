@@ -1,4 +1,4 @@
-(ns learning-clojure.predicates)
+(ns learning-clojure.initial.predicates)
 
 (defn apply-discount?
   "Apply discount if the price is greater than 100."

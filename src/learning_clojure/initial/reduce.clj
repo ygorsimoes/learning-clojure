@@ -1,4 +1,4 @@
-(ns learning-clojure.reduce)
+(ns learning-clojure.initial.reduce)
 
 ;; Reduce is a function that applies a function to each element of a collection.
 (reduce + [1 2 3 4 5])  ;;=> 15

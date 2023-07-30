@@ -1,4 +1,4 @@
-(ns learning-clojure.functions)
+(ns learning-clojure.initial.functions)
 
 (defn simple-function
   "Simple function that returns a string."

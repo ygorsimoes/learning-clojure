@@ -1,4 +1,4 @@
-(ns learning-clojure.conditionals)
+(ns learning-clojure.initial.conditionals)
 
 (defn simple-if-conditional
   "Returns true if age is greater than 18 if not returns false."

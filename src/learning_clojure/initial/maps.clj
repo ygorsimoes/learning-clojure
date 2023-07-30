@@ -1,4 +1,4 @@
-(ns learning-clojure.maps)
+(ns learning-clojure.initial.maps)
 
 ;; Maps are a collection of key-value pairs.
 (def inventory {:potion 1

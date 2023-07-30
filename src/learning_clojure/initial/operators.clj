@@ -1,4 +1,4 @@
-(ns learning-clojure.operators)
+(ns learning-clojure.initial.operators)
 
 (def number-one 2)
 (def number-two 10)

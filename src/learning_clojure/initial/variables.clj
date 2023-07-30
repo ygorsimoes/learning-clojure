@@ -1,4 +1,4 @@
-(ns learning-clojure.variables)
+(ns learning-clojure.initial.variables)
 
 ;; Global variables are defined with (def $ $)
 (def global-variable "This is a global variable!")

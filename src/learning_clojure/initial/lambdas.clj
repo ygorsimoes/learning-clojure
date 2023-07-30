@@ -1,4 +1,4 @@
-(ns learning-clojure.lambdas)
+(ns learning-clojure.initial.lambdas)
 
 ;; Lambda functions are defined with (fn [$ $] ...)
 (println "[Lambda 1] The sum is:" ((fn [number-one number-two] (+ number-one number-two)) 2 2))
