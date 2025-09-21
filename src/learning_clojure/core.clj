@@ -1,7 +1,6 @@
 (ns learning-clojure.core)
 
-(defn hello
-  []
-  "Hello, World!")
-
-(println (hello))
+(defn foo
+  "I don't do a whole lot."
+  [x]
+  (println x "Hello, World!"))
