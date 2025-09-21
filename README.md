@@ -4,7 +4,8 @@
     <h1>learning-clojure</h1>
 </div>
 
-<p>This is a basic repository where I will put all my didactic code.
+<p>
+    This is a basic repository where I will put all my didactic code.
     I'm guiding all my learning through the recommendations from the official Clojure website
     <a href="https://clojure.org/guides/learn/clojure">here</a>.
 </p>
