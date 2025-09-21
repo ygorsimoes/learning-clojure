@@ -2,7 +2,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/800px-Clojure_logo.svg.png" width="10%" alt="Clojure logo"> 
 </div>
 
-<h1 style="text-align: center;">learning-clojure</h1>
+<h1 align="center">learning-clojure</h1>
 
 <p>
     This is a basic repository where I will put all my didactic code.
