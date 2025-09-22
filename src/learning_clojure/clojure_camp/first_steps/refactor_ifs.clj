@@ -2,6 +2,7 @@
 
 ; Refactor the below code to use a single cond instead of multiple ifs.
 ; Also, consider re-ordering the conditionals to simplify the logic.
+
 (defn process-value
   [value]
   (if (and (number? value) (> value 10))
@@ -16,7 +17,7 @@
             :a-string
             :something-else))))))
 
-; Solution
+; Solution:
 (defn process-value-solution
   [value]
   (cond
@@ -28,7 +29,7 @@
     :else :something-else))
 
 
-; Result
+; Result:
 (process-value 20)
 (process-value-solution 20)
 
