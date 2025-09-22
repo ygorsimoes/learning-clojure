@@ -4,10 +4,11 @@
     <h1>learning-clojure</h1>
 </div>
 
-<p>
-    This is a basic repository where I will put all my didactic code.
-    I'm guiding all my learning through the recommendations from the official Clojure website
-    <a href="https://clojure.org/guides/learn/clojure">here</a>.
-</p>
+This is a basic repository where I'll be putting all my tutorial code.
+I'm guiding all my learning through the recommendations on the official Clojure website
+<a href="https://clojure.org/guides/learn/clojure">here</a>.
+
+Special thanks to everyone at Clojure Camp for helping me get there.
+I highly recommend their exercise list: <a href="https://exercises.clojure.camp">Clojure Camp Exercises</a>
 
 <b>Feel free to contribute positively to this repository.</b>
